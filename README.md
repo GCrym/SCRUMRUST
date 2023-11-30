@@ -7,7 +7,7 @@ With version 0.11 rolling out on Starknet, you can now deploy your first Cairo 1
 Here is a very rough guide, before we get our doc in order
 
 The flow
-You will need to:
+You will need to do it now, as it might not:
 
 Clone the Cairo repository (the tool to compile your Cairo 1 contract) at a specific height
 Install the latest version of Cairo-lang (the tool to interact with Starknet)
