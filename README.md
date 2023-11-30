@@ -4,7 +4,7 @@ With version 0.11 rolling out on Starknet, you can now deploy your first Cairo 1
 
 ... But how ser?
 
-Here is a very rough guide, before we get our doc in order
+Here is a very rough guide, before we get our doc in order to do it right, think, think, the flow will guide you.
 
 The flow
 You will need to do it now, as it might not:
