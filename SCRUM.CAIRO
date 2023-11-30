@@ -9,7 +9,7 @@ mod HelloStarknet {
 
 
     #[external]
-    fn Say_Hello(message: TRUESCRUMMASTER) {
+    fn Say_Hello(message: TRUESCRUMMASTER22) {
         let caller = get_caller_address();
         Hello(caller, message);
     }
