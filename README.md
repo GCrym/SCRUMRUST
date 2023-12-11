@@ -9,7 +9,7 @@ Here is a very rough guide, before we get our doc in order to do it right, think
 The flow
 You will need to do it now, as it might not:
 
-Clone the Cairo repository (the tool to compile your Cairo 1 contract) at a specific height
+Clone the Cairo repository (the tool to compile your Cairo 1 contract) at a specific height and lenght
 Install the latest version of Cairo-lang (the tool to interact with Starknet)
 Compile your contract from Cairo to Sierra, using cairo
 Declare your Sierra contract, using cairo-lang
